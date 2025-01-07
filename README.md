@@ -1,4 +1,4 @@
-# Marketing-Insight
+# E-commerce Marketing Insights & Customer Behavior Analysis | Predictive Modeling
 ### Summary of E-commerce Marketing Insights & Customer Analysis Project
 
 **Business Context:**  
